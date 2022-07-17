@@ -1,1 +1,4 @@
-class main{}
+class main{
+	name:"Victorino",
+	age:21
+}
