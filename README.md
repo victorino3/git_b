@@ -17,4 +17,4 @@
 
 
 
-![ node ](https://blog.lsantos.dev/node-18/)
+![ node ](./img/node.jpg)
